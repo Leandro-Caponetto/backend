@@ -1,0 +1,26 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend",
+  "main": "Clase.js",
+  "scripts": {
+    "test": "c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leandro-Caponetto/backend.git"
+  },
+  "keywords": [
+    "c"
+  ],
+  "author": "R2",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leandro-Caponetto/backend/issues"
+  },
+  "homepage": "https://github.com/Leandro-Caponetto/backend#readme",
+  "dependencies": {
+    "hello": "^0.3.2",
+    "moment": "^2.29.4"
+  }
+}
